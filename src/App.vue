@@ -1,5 +1,5 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png" />
+  <h1 class="bg-gray-200">App</h1>
 </template>
 
 <script>
